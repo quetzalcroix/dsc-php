@@ -1,0 +1,20 @@
+{
+    "name": "quetzalcroix/dsc-php",
+    "description": "Digest Swarm Chain PHP Connector",
+    "type": "library",
+    "require": {
+        "web3-php/web3": "dev-master"
+    },
+    "license": "GPL-3.0-only",
+    "autoload": {
+        "psr-4": {
+            "Quetzalcroix\\DscPhp\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Dimas Victor",
+            "email": "quetzalcroix@gmail.com"
+        }
+    ]
+}
